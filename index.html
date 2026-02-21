@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BMI Calculator Pro</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>BMI Calculator</h1>
+
+    <div class="form-group">
+      <label>Weight</label>
+      <input type="number" id="weight" placeholder="e.g: 70" />
+    </div>
+
+    <div class="form-group">
+      <label>Height</label>
+      <input type="number" step="0.01" id="height" placeholder="e.g: 1.85" />
+    </div>
+
+    <button onclick="calculateBMI()">Calculate the BMI</button>
+
+    <div id="result" class="result-card hidden"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -36,5 +36,4 @@ Try it here: [https://bahadirbektore.github.io/bmi-calculator/](https://bahadirb
 ## 💡 Notes
 
 - Fully front-end, works directly in the browser.  
-- Hosted via GitHub Pages: [Live Demo](https://bahadirbektore.github.io/bmi-calculator/)  
-- Ideal for portfolios to showcase simple but functional web projects.
+- Hosted via GitHub Pages: [Live Demo](https://bahadirbektore.github.io/bmi-calculator/) 
